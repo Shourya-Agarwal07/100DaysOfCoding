@@ -6,7 +6,6 @@
 below 60: Grade F.*/
 
 #include <stdio.h>
-
 int main()
 {
     int percentage;
