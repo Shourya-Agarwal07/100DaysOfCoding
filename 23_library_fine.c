@@ -5,6 +5,7 @@ Next 20 days days late: ₹6/day
 More than 30 days: Membership Cancelled.*/
 
 #include <stdio.h>
+
 int main()
 {
     int days, fine;
