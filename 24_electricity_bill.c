@@ -5,6 +5,7 @@ Next 100 units at ₹10/unit
 Above at ₹12/unit*/
 
 #include <stdio.h>
+
 int main()
 {
     int units, bill;
